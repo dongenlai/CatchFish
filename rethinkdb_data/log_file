@@ -1,0 +1,37 @@
+2019-07-25T18:50:32.510254000 0.183569s notice: Recursively removing directory /Users/dongenlai/Documents/cocos-creator/project/CatchFish/rethinkdb_data/tmp
+2019-07-25T18:50:32.512127000 0.185445s notice: Initializing directory /Users/dongenlai/Documents/cocos-creator/project/CatchFish/rethinkdb_data
+2019-07-25T18:50:32.512228000 0.185542s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/dongenlai/Documents/cocos-creator/project/CatchFish/rethinkdb_data' did not already exist or is empty.)
+2019-07-25T18:50:32.512265000 0.185578s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2019-07-25T18:50:32.518311000 0.191626s notice: Running on Darwin 17.7.0 x86_64
+2019-07-25T18:50:32.518360000 0.191673s notice: Loading data from directory /Users/dongenlai/Documents/cocos-creator/project/CatchFish/rethinkdb_data
+2019-07-25T18:50:32.657061000 0.330381s info: Automatically using cache size of 1628 MB
+2019-07-25T18:50:32.657721000 0.331040s notice: Listening for intracluster connections on port 29015
+2019-07-25T18:50:32.659292000 0.332611s notice: Listening for client driver connections on port 28015
+2019-07-25T18:50:32.659408000 0.332727s notice: Listening for administrative HTTP connections on port 8080
+2019-07-25T18:50:32.659410000 0.332729s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-07-25T18:50:32.659414000 0.332733s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-07-25T18:50:32.659417000 0.332736s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-07-25T18:50:32.659422000 0.332741s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-07-25T18:50:32.659428000 0.332747s notice: Server ready, "delMac_local_n4f" 8c56424d-eb69-4dbf-acdf-1dfa4566231d
+2019-07-25T18:51:08.073888000 35.748462s info: Table 10983553-5c43-41d9-a7ee-53dbb9ceffd0: Starting a new Raft election for term 1.
+2019-07-25T18:51:08.073900000 35.748474s info: Table 72c40a30-49f2-4a0a-b03c-748eb63ed45d: Starting a new Raft election for term 1.
+2019-07-25T18:51:08.083383000 35.757957s info: Table 10983553-5c43-41d9-a7ee-53dbb9ceffd0: Added replica on this server.
+2019-07-25T18:51:08.083521000 35.758094s info: Table 72c40a30-49f2-4a0a-b03c-748eb63ed45d: Added replica on this server.
+2019-07-25T18:51:08.083523000 35.758097s info: Table de1faa4a-890d-44cd-b216-dec05150a8fe: Starting a new Raft election for term 1.
+2019-07-25T18:51:08.083731000 35.758305s info: Table 45b19c74-cac7-489c-8b3b-a82f74ff332e: Starting a new Raft election for term 1.
+2019-07-25T18:51:08.084551000 35.759124s info: Table de1faa4a-890d-44cd-b216-dec05150a8fe: Added replica on this server.
+2019-07-25T18:51:08.084648000 35.759222s info: Table 45b19c74-cac7-489c-8b3b-a82f74ff332e: Added replica on this server.
+2019-07-25T18:51:08.084983000 35.759557s info: Table 35814a1d-68d3-481a-acda-b377b2c5ec0c: Starting a new Raft election for term 1.
+2019-07-25T18:51:08.085249000 35.759823s info: Table 35814a1d-68d3-481a-acda-b377b2c5ec0c: Added replica on this server.
+2019-07-25T18:51:08.109247000 35.783822s info: Table 10983553-5c43-41d9-a7ee-53dbb9ceffd0: This server is Raft leader for term 1. Latest log index is 0.
+2019-07-25T18:51:08.109315000 35.783890s info: Table 72c40a30-49f2-4a0a-b03c-748eb63ed45d: This server is Raft leader for term 1. Latest log index is 0.
+2019-07-25T18:51:08.133115000 35.807691s info: Table de1faa4a-890d-44cd-b216-dec05150a8fe: This server is Raft leader for term 1. Latest log index is 0.
+2019-07-25T18:51:08.133213000 35.807788s info: Table 45b19c74-cac7-489c-8b3b-a82f74ff332e: This server is Raft leader for term 1. Latest log index is 0.
+2019-07-25T18:51:08.133293000 35.807868s info: Table 35814a1d-68d3-481a-acda-b377b2c5ec0c: This server is Raft leader for term 1. Latest log index is 0.
+2019-07-25T18:51:08.645558000 36.320152s info: Table 72c40a30-49f2-4a0a-b03c-748eb63ed45d: Configuration is changing.
+2019-07-25T18:51:08.645699000 36.320293s info: Table 72c40a30-49f2-4a0a-b03c-748eb63ed45d: Configuration is changing.
+2019-07-25T18:51:08.646053000 36.320646s info: Table 72c40a30-49f2-4a0a-b03c-748eb63ed45d: Configuration is changing.
+2019-07-25T18:51:08.967620000 36.642226s info: Table 35814a1d-68d3-481a-acda-b377b2c5ec0c: Configuration is changing.
+2019-07-25T18:51:08.968345000 36.642950s info: Table de1faa4a-890d-44cd-b216-dec05150a8fe: Configuration is changing.
+2019-07-25T18:51:08.977761000 36.652367s info: Table 45b19c74-cac7-489c-8b3b-a82f74ff332e: Configuration is changing.
+2019-07-25T18:51:08.978338000 36.652943s info: Table 45b19c74-cac7-489c-8b3b-a82f74ff332e: Configuration is changing.

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "059ce785-3d26-4995-8bec-27bc1492dc10",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "toll_gunbg_4": {
+      "ver": "1.0.4",
+      "uuid": "7f74aad5-658a-4335-9341-6bbd3c11a481",
+      "rawTextureUuid": "059ce785-3d26-4995-8bec-27bc1492dc10",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 41,
+      "rawWidth": 98,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

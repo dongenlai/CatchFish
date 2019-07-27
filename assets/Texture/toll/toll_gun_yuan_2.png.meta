@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8237f451-ab9b-4d72-93a8-4a8af282b1f4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "toll_gun_yuan_2": {
+      "ver": "1.0.4",
+      "uuid": "8f57cb9a-8949-42ae-a397-17e6d53a22e8",
+      "rawTextureUuid": "8237f451-ab9b-4d72-93a8-4a8af282b1f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 18,
+      "height": 19,
+      "rawWidth": 18,
+      "rawHeight": 19,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
